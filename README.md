@@ -27,5 +27,4 @@ src/load.py      — database write
 main.py          — runs the full ETL
 
 ## What I learned
-[Write 2-3 sentences about what clicked for you — 
-pipeline design, pandas, SQL schema, etc.]
+Utilizing Claude Code I was able to optimize the weather data for my current location (Honoloulu, HI) to take unstructured, messy data, and transform it into structured readable data. I learned how to utilize python in VS Code and push all commands and files into Github.
